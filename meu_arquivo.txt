@@ -2,4 +2,4 @@
 teste para o gtech
 =======
 
->>>>>>> 38a98b17e3d18c74f3f25ed41d1bce64f0088793
+>>>>>>> 
